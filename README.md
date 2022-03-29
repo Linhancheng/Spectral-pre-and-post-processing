@@ -1,7 +1,7 @@
 # Spectral-pre-and-post-processing
 Spectral pre and post processing for infrared spectroscopy of DbCM myocardium tissues<br>
 # Installation
-Matlab<br>
+Matlab, release >= r2014a tested<br>
 # Add these toolboxes to the search path
 [PCA toolbox](https://michem.unimib.it/download/matlab-toolboxes)<br>
 [Classification toolbox](https://michem.unimib.it/download/matlab-toolboxes)<br>

@@ -6,10 +6,10 @@ Matlab\
 [Classification toolbox](https://michem.unimib.it/download/matlab-toolboxes)\
 [Irootlab](http://trevisanj.github.io/irootlab)\
 [RandomForest package](https://github.com/jrderuiter/randomforest-matlab)
-# Download the code and data, and run directly
-We have uploaded the data to the Baidu SkyDrive and Google driver.
+# Download the code and example data, and run directly
+We have uploaded the example data to the Baidu SkyDrive and Google driver.<br>
 
-Download at: Baidu SkyDrive or Google driver\
+Download at: Baidu SkyDrive or Google driver<br>
 ##1.Training your model
 
 Run the file 'one-component-model.py'.The corresponding example data have been uploaded to the folder named 'augmented data'.\

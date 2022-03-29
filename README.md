@@ -7,6 +7,13 @@ Matlab\
 [Irootlab](http://trevisanj.github.io/irootlab)\
 [RandomForest package](https://github.com/jrderuiter/randomforest-matlab)
 # Download the code and data, and run directly
-We have uploaded the data to the Baidu SkyDrive and Google driver.\
+We have uploaded the data to the Baidu SkyDrive and Google driver.
 
 Download at: Baidu SkyDrive or Google driver
+##1.Training your model
+
+Run the file 'one-component-model.py'.The corresponding example data have been uploaded to the folder named 'augmented data'.
+
+##2.Predict mixture spectra data
+
+Run the file 'DeepCID.py'.An example mixture data have been uploaded at Baidu SkyDrive (named 'mixture.npy', 'label.npy' and 'namedata.csv').Download the model and these example data，DeepCID can be reload and predict easily.

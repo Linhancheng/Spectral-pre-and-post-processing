@@ -9,10 +9,10 @@ Matlab\
 # Download the code and data, and run directly
 We have uploaded the data to the Baidu SkyDrive and Google driver.
 
-Download at: Baidu SkyDrive or Google driver
+Download at: Baidu SkyDrive or Google driver\
 ##1.Training your model
 
-Run the file 'one-component-model.py'.The corresponding example data have been uploaded to the folder named 'augmented data'.
+Run the file 'one-component-model.py'.The corresponding example data have been uploaded to the folder named 'augmented data'.\
 
 ##2.Predict mixture spectra data
 

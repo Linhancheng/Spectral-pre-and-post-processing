@@ -12,8 +12,8 @@ ConfidenceRegion.m<br>
 normaliz.m<br>
 savgol.m<br>
 # Download the code and example data, and run directly
-We have uploaded the example data to the Baidu SkyDrive and Google driver.<br>
+We have uploaded the example data to the [Baidu SkyDrive](https://pan.baidu.com/s/1Qglq3VMG0XFmGF2c6sNefA)(code: a4v1) and Google driver.<br>
 
-Run the file 'one-component-model.py'.<br>
+Download the data and run the file 'Spectral_pre_and_post_processing.m' directly.<br>
 
 
